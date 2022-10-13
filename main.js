@@ -5,7 +5,7 @@ phina.globalize();
 var ASSETS = {
   // サウンド
   sound: {
-    'sound1': './田中.mp3',
+    'sound1': './music1.mp3',
   },
 };
 
